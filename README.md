@@ -2,7 +2,7 @@
 
 A fully responsive and modern **Cake Shop Website** built using **HTML, CSS, and JavaScript**.  
 This website highlights the shop’s products, customer testimonials, and contact details in a clean and mobile-friendly design.
-
+![image alt](https://github.com/JMIG-Jayasooriya/my-project/blob/b5bf68e879a9dd5f29f514d9378ae65f9e110a7c/Screenshot%202025-11-01%20075218.png)
 ---
 
 ## 📌 Features
